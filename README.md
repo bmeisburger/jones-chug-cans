@@ -1,6 +1,6 @@
 # Jones Beer Bike Chug Cans
 
-This repo contains the 3D files for the chug cans created by Ben Meisburger for the 2024 Jones Chug Team. The following is a step-by-step guide to construct additional cans:
+This repo contains the 3D files for the chug cans created by Ben Meisburger for the 2024 Jones Chug Team. The following is a step-by-step guide to construct additional cans and tips for inspection.
 
 ## Printing:
 
