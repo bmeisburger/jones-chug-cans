@@ -4,7 +4,7 @@ This repo contains the 3D files for the chug cans created by Ben Meisburger for 
 
 ## Printing:
 
-I printed 8 complete cans on two Bambu Labs X1C with little hassle. I was able to tile 7 caps/mouthpieces per print with some creativity. Each print took < 6 hours. The mouthpiece.stl and cap.stl files should be ready to print. If changes need to be made to the file, use the chug-can.f3d and modify parameters as needed (e.g., tube wall thickness, mouthpiece hole size, etc.).
+I printed 8 complete cans on two Bambu Labs X1C printers with little hassle. I was able to tile 7 caps/mouthpieces per print with some creativity. Each print took < 6 hours. The mouthpiece.stl and cap.stl files should be ready to print. If changes need to be made to the file, use the chug-can.f3d and modify parameters as needed (e.g., tube wall thickness, mouthpiece hole size, etc.).
 
 I used the following print settings:
 
